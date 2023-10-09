@@ -1,6 +1,7 @@
 Hello my name is Aidan,
 
-I primarily write in Python, NodeJS, and Java. 
+I primarily write in Python, Java, and NodeJS in that order. 
 
-Contact me at AidanBruner789@gmail.com
+I mostly make goofy lil projects that me and my friends can laugh at. But also have several useful projects that I use on a day to day basis.
 
+Contact me at, Aidanbruner789@gmail.com
