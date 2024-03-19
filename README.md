@@ -1,8 +1,9 @@
 
 ( init.vim -> My NeoVim config)
+# AidanB446
 
-Hello my name is Aidan,
+My portfolio https://aidanb446.github.io/
 
-I primarily write in Python, Java, and NodeJS in that order. 
+Hello, my name is Aidan Bruner. 
+Aidanbruner789@gmail.com
 
-Contact me at, Aidanbruner789@gmail.com
